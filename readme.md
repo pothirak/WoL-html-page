@@ -1,3 +1,5 @@
+![alt text](https://github.com/pothirak/wol-page/blob/main/wol-on-pi.png?raw=true)
+
 ใช้คำสั่ง 
 ```bash
 sudo nano wake.py
